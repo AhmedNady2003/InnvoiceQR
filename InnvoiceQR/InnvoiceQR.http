@@ -1,0 +1,6 @@
+@InnvoiceQR_HostAddress = http://localhost:5104
+
+GET {{InnvoiceQR_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
